@@ -5,7 +5,7 @@
   "repository": "<fill-your-repository-here>",
   "dependencies": {
     "@nativescript/core": "file:../../node_modules/@nativescript/core",
-    "v8-module-cpp": "file:../../packages/v8-module-cpp"
+    "v8-module-cpp": "file:../../dist/packages/v8-module-cpp"
   },
   "devDependencies": {
     "@nativescript/android": "~8.5.1",

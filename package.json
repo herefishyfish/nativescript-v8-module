@@ -19,6 +19,7 @@
     "@nativescript/plugin-tools": "5.1.0",
     "@nativescript/types": "~8.5.0",
     "@nativescript/webpack": "~5.0.17",
+    "ng-packagr": "16.2.0",
     "husky": "^8.0.0",
     "typescript": "~4.8.0"
   },

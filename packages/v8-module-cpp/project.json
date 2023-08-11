@@ -19,6 +19,11 @@
             "glob": "**/*",
             "input": "packages/v8-module-cpp/platforms/",
             "output": "./platforms/"
+          },
+          {
+            "glob": "**/*",
+            "input": "packages/v8-module-cpp/src-native/",
+            "output": "./src-native/"
           }
         ],
         "dependsOn": [
